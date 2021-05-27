@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman';
+    background-color:coral;
+}
+#camera{
+    border-style: inset;
+    width: 400px;
+    height:300px;
+}
+#header{
+    border-style: inset;
+    border-width: 5px;
+    font-size: large;
+    width: 80%;
+}
+#picture{
+    border-style: inset;
+    width: 400px;
+    height:300px;
+}
+#Object{
+    font-size: 30px;
+    background-color:aqua;
+}
+#Accuracy{
+    font-size: 30px;
+    background-color:aqua;
+}
